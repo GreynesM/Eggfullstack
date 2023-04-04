@@ -52,7 +52,7 @@ Algoritmo sin_titulo
 	//agregarPalabra(tablero, "programa", 2)
 	agregarPalabra(tablero, "subprograma", 3)
 	agregarPalabra(tablero, "subproceso", 4)
-	agregarPalabra(tablero, "variable", 5)
+	//agregarPalabra(tablero, "variable", 5)
 	agregarPalabra(tablero, "entero", 6)
 	agregarPalabra(tablero, "para", 7)
 	agregarPalabra(tablero, "mientras", 8)
