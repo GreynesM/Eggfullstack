@@ -21,6 +21,8 @@ SubProceso imprimirMatriz(tablero,9,12)
 			Escribir " "
 	Fin Para
 FinSubProceso
+//greynes
+//medina
 
 SubProceso acomodarPalabras(tablero)
 		buscarR(tablero)
